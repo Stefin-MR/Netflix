@@ -1,0 +1,145 @@
+Country,Crop,Year,Value(tonnes of HA)
+Australia,Wheat,2018,1.703
+Australia,Wheat,2019,1.625
+Australia,Wheat,2020,1.949
+Canada,Wheat,2018,3.259
+Canada,Wheat,2019,3.348
+Canada,Wheat,2020,3.329
+Japan,Wheat,2018,3.609
+Japan,Wheat,2019,4.036
+Japan,Wheat,2020,4.056
+Korea,Wheat,2018,3.185
+Korea,Wheat,2019,3.195
+Korea,Wheat,2020,3.205
+Mexico,Wheat,2018,5.437
+Mexico,Wheat,2019,5.489
+Mexico,Wheat,2020,5.513
+Turkey,Wheat,2018,2.576
+Turkey,Wheat,2019,2.458
+Turkey,Wheat,2020,2.699
+United States,Wheat,2018,3.201
+United States,Wheat,2019,3.499
+United States,Wheat,2020,3.3
+Argentina,Wheat,2018,3.216
+Argentina,Wheat,2019,3.281
+Argentina,Wheat,2020,3.307
+Brazil,Wheat,2018,2.517
+Brazil,Wheat,2019,2.638
+Brazil,Wheat,2020,2.765
+China,Wheat,2018,5.416
+China,Wheat,2019,5.63
+China,Wheat,2020,5.509
+India,Wheat,2018,3.377
+India,Wheat,2019,3.514
+India,Wheat,2020,3.45
+Indonesia,Wheat,2018,1.0
+Indonesia,Wheat,2019,1.0
+Indonesia,Wheat,2020,1.029
+Russia,Wheat,2018,2.646
+Russia,Wheat,2019,2.687
+Russia,Wheat,2020,2.835
+Saudi Arabia,Wheat,2018,5.729
+Saudi Arabia,Wheat,2019,6.364
+Saudi Arabia,Wheat,2020,6.364
+South Africa,Wheat,2018,3.711
+South Africa,Wheat,2019,3.344
+South Africa,Wheat,2020,3.443
+United Kingdom,Wheat,2018,7.755
+United Kingdom,Wheat,2019,8.189
+United Kingdom,Wheat,2020,8.075
+Australia,Rice,2018,12.176
+Australia,Rice,2019,11.498
+Australia,Rice,2020,11.354
+Canada,Rice,2018,0.0
+Canada,Rice,2019,0.0
+Canada,Rice,2020,0.0
+Japan,Rice,2018,5.059
+Japan,Rice,2019,5.157
+Japan,Rice,2020,5.166
+Korean,Rice,2018,5.244
+Korean,Rice,2019,5.257
+Korean,Rice,2020,5.337
+Mexico,Rice,2018,6.285
+Mexico,Rice,2019,6.132
+Mexico,Rice,2020,6.208
+Turkey,Rice,2018,4.904
+Turkey,Rice,2019,5.087
+Turkey,Rice,2020,5.164
+United States,Rice,2018,6.0
+United States,Rice,2019,6.021
+United States,Rice,2020,6.298
+Argentina,Rice,2018,4.698
+Argentina,Rice,2019,4.357
+Argentina,Rice,2020,4.542
+Brazil,Rice,2018,4.16
+Brazil,Rice,2019,4.187
+Brazil,Rice,2020,4.237
+China,Rice,2018,4.813
+China,Rice,2019,4.941
+China,Rice,2020,4.966
+India,Rice,2018,2.652
+India,Rice,2019,2.653
+India,Rice,2020,2.706
+Indonesia,Rice,2018,3.26
+Indonesia,Rice,2019,3.265
+Indonesia,Rice,2020,3.344
+Russia,Rice,2018,5.72
+Russia,Rice,2019,5.448
+Russia,Rice,2020,5.492
+Saudi Arabia,Rice,2018,1.0
+Saudi Arabia,Rice,2019,1.0
+Saudi Arabia,Rice,2020,1.028
+South Africa,Rice,2018,2.001
+South Africa,Rice,2019,2.001
+South Africa,Rice,2020,2.058
+United Kingdom,Rice,2018,0.0
+United Kingdom,Rice,2019,0.0
+United Kingdom,Rice,2020,0.0
+Korea,Soybean,2018,1.766
+Korea,Soybean,2019,1.775
+Korea,Soybean,2020,1.781
+Russia,Soybean,2018,1.365
+Russia,Soybean,2019,1.272
+Russia,Soybean,2020,1.361
+United States,Soybean,2018,3.399
+United States,Soybean,2019,3.19
+United States,Soybean,2020,3.431
+Argentina,Soybean,2018,3.334
+Argentina,Soybean,2019,3.221
+Argentina,Soybean,2020,3.334
+Japan,Soybean,2018,1.439
+Japan,Soybean,2019,1.675
+Japan,Soybean,2020,1.684
+Indonesia,Soybean,2018,1.625
+Indonesia,Soybean,2019,1.625
+Indonesia,Soybean,2020,1.641
+Turkey,Soybean,2018,3.5
+Turkey,Soybean,2019,3.5
+Turkey,Soybean,2020,3.62
+Australia,Soybean,2018,1.632
+Australia,Soybean,2019,1.682
+Australia,Soybean,2020,1.296
+Canada,Soybean,2018,2.92
+Canada,Soybean,2019,2.641
+Canada,Soybean,2020,2.778
+India,Soybean,2018,1.211
+India,Soybean,2019,1.09
+India,Soybean,2020,1.112
+Saudi Arabia,Soybean,2018,1.0
+Saudi Arabia,Soybean,2019,1.0
+Saudi Arabia,Soybean,2020,1.028
+Mexico,Soybean,2018,1.7
+Mexico,Soybean,2019,1.7
+Mexico,Soybean,2020,1.71
+China,Soybean,2018,1.898
+China,Soybean,2019,1.939
+China,Soybean,2020,1.957
+South Africa,Soybean,2018,1.957
+South Africa,Soybean,2019,1.603
+South Africa,Soybean,2020,1.977
+Brazil,Soybean,2018,3.207
+Brazil,Soybean,2019,3.289
+Brazil,Soybean,2020,3.313
+United Kingdom,Soybean,2018,0.0
+United Kingdom,Soybean,2019,0.0
+United Kingdom,Soybean,2020,0.0
